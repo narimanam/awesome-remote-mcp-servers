@@ -2794,7 +2794,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Work with Jira issues and Confluence pages.
 - [Atwork](https://atwork.so/mcp) `https://mcp.atwork.so/mcp`
   [![Atwork MCP connector](https://glama.ai/mcp/connectors/so.atwork/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/so.atwork/workspace)
-  🔐 - Plug your agency's workspace into Claude or ChatGPT: read and update sheets, tasks and pages, one OAuth scope per tool.
+  🔐 - Work with your Atwork sheets, tasks and pages from Claude, ChatGPT or any MCP client, with one OAuth scope per tool.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
 - [dot•requirements](https://dotrequirements.io) `https://app.dotrequirements.io/mcp`
